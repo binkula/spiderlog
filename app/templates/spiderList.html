@@ -1,6 +1,6 @@
-<p ng-hide="spiders.data.length">You haven't added any spiders yet.</p>
+<p ng-hide="spiderList.data.length">You haven't added any spiders yet.</p>
 
-<table ng-show="spiders.data.length">
+<table ng-show="spiderList.data.length">
     <thead>
         <tr>
             <td>Name</td>
@@ -11,7 +11,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr ng-repeat="spider in spiders.data">
+        <tr ng-repeat="spider in spiderList.data">
             <td>{{spider.name}}</td>
             <td>{{spider.got}}</td>
             <td>{{spider.lastFed}}</td>
