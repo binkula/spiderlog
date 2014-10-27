@@ -18,4 +18,17 @@
             controllerAs: 'spiders'
         };
     });
+    
+    app.directive("spiderAdd", function(){
+        return{
+            restrict: 'E',
+            templateUrl: 'app/templates/spiderAdd.html',
+            controller: function(){
+            
+            },
+            controllerAs: 'spiderAdd'
+        }
+    
+    });
+
 })();
