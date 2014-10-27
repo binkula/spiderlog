@@ -1,0 +1,23 @@
+<p ng-hide="spiders.data.length">You haven't added any spiders yet.</p>
+
+<table ng-show="spiders.data.length">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Got</td>
+            <td>Last Fed</td>
+            <td>Last Molt</td>
+            <td>Size</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="spider in spiders.data">
+            <td>{{spider.name}}</td>
+            <td>{{spider.got}}</td>
+            <td>{{spider.lastFed}}</td>
+            <td>{{spider.lastMolt}}</td>
+            <td>{{spider.size}}</td>
+        </tr>
+    </tbody>
+</table>
+
