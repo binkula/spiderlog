@@ -1,18 +1,21 @@
 <div>
     <form>
-        <label for="spider-image">Spider Image</label>
-        <input id="spider-image" name="spider-image" type="file"></input>
-        <label for="spider-name">Spider Name</label>
-        <input id="spider-name" name="spider-name" type="text"></input>
-        <label for="spider-got">Acquired On</label>
-        <input id="spider-got" name="spider-got" type="date"></input>
-        <label for="spider-genus">Spider Genus</label>
-        <input id="spider-genus" name="spider-genus"></input>
-        <label for="spider-species">Spider Species</label>
-        <input id="spider-species" name="spider-species"></input>
-        <label for="spider-molt-history">Molts</label>
-        <input id="spider-molt-date" name="spider-molt-date" type="date"></input>
-        <input id="spider-molt-size" name="spider-molt-size" type="number"></input>
-        <input id="spider-molt-history-add" name="spider-molt-history-add" type="button" value="Add Molt"></input>
+        <fieldset>
+            <label for="spider-name">Name</label>
+            <input id="spider-name" name="spider-name" type="text"></input>
+        </fieldset>
+        <fieldset>
+            <label for="spider-genus">Genus</label>
+            <input id="spider-genus" name="spider-genus"></input>
+        </fieldset>
+        <fieldset>
+            <label for="spider-species">Species</label>
+            <input id="spider-species" name="spider-species"></input>
+        </fieldset>
+        <fieldset>
+            <label for="spider-size">Size</label>
+            <input id="spider-size" name="spider-size"></input>
+        </fieldset>
+        <div class="button id="spider-save">save spider</div>
     </form>
 </div>

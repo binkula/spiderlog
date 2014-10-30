@@ -1,0 +1,23 @@
+@import 'vars';
+
+.button{
+    background:$dark;
+    border-radius:10px;
+    color:$lightest;
+    cursor:pointer;
+    display:inline-block;
+    padding:10px;
+
+    transition:all .5s ease-out;
+
+    &:hover{
+        background:$darker;
+        color:$lightest;
+    }
+}
+
+.spider-list + .button,
+fieldset + .button {margin-top:10px;}
+
+//.spider-list td:first-child .button{width:90%}
+.spider-list td .button{width:90%}

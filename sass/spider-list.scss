@@ -1,0 +1,31 @@
+@import 'forms';
+@import 'tables';
+@import 'buttons';
+
+$fed-4:$darker;
+$fed-3:$dark;
+$fed-2:$light;
+$fed-1:none;
+
+.fed-4{
+    background:$fed-4;
+    color:$darkest;
+}
+.fed-3{
+    background:$fed-3;
+    color:$darkest;
+}
+.fed-2{
+    background:$fed-2;
+    color:$darkest;
+}
+.fed-1{
+    background:$fed-1;
+    color:$darkest;
+}
+.fed-0{
+    color:$darkest;
+}
+
+
+

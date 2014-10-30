@@ -1,17 +1,40 @@
 [
     {
         "name":"potato",
+        "genus":"grammostola",
+        "species":"rosea",
         "got":"09/01/13",
-        "lastFed":"02/02/14",
+        "lastFed":"Thu Sep 26 2014",
         "lastMolt":"03/03/03",
         "size":"6"
     },
     {
         "name":"suze",
+        "genus":"brachypelma",
+        "species":"boehmei",
         "got":"07/01/23",
-        "lastFed":"03/12/14",
+        "lastFed":"Thu Oct 23 2014",
+        "lastMolt":"04/04/03",
+        "size":"6"
+    },
+    {
+        "name":"",
+        "genus":"brachypelma",
+        "species":"boehmei",
+        "got":"07/01/23",
+        "lastFed":"Thu Oct 16 2014",
+        "lastMolt":"04/04/03",
+        "size":"6"
+    },
+    {
+        "name":"hansy",
+        "genus":"chromatopelma",
+        "species":"cyaneopubescens",
+        "got":"07/01/23",
+        "lastFed":"Thu Oct 29 2014",
         "lastMolt":"04/04/03",
         "size":"6"
     }
+
 
 ]

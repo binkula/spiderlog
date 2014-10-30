@@ -1,23 +1,19 @@
 <p ng-hide="spiderList.data.length">You haven't added any spiders yet.</p>
 
-<table ng-show="spiderList.data.length">
+<table class="spider-list" ng-show="spiderList.data.length">
     <thead>
         <tr>
-            <td>Name</td>
-            <td>Got</td>
-            <td>Last Fed</td>
-            <td>Last Molt</td>
-            <td>Size</td>
+            <td>name</td>
+            <td>last fed</td>
+            <td>feed</td>
         </tr>
     </thead>
     <tbody>
-        <tr ng-repeat="spider in spiderList.data">
-            <td>{{spider.name}}</td>
-            <td>{{spider.got}}</td>
-            <td>{{spider.lastFed}}</td>
-            <td>{{spider.lastMolt}}</td>
-            <td>{{spider.size}}</td>
+    <tr ng-repeat="spider in spiderList.data" class="fed-{{spider.weeksSinceFed.styleIndicator}}">
+            <td><div class="button">{{spider.identification}}</div></td>
+            <td>{{spider.weeksSinceFed.number}} {{spider.weeksSinceFed.description}}</td>
+            <td><div class="button">feed</div></td>
         </tr>
     </tbody>
 </table>
-
+<div class="button">add spider</div>

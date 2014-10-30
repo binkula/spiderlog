@@ -1,0 +1,17 @@
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+
+body{
+    background:$lightest;
+    font-family:$main;
+    font-size:18px; 
+}
+
+h1{
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+@import 'spider-list';
+
