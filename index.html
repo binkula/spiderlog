@@ -9,9 +9,11 @@
     </head>
     <body ng-app="spiderLog">
         <h1>Spider Log</h1>
-
-        <spider-list></spider-list>
-        <spider-add></spider-add>
+        
+        <div id="spiderlog">
+            <spider-list></spider-list>
+            <spider-profile ng-show="showProfile"></spider-profile>
+        </div>
         
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0/angular.js"></script>
         <script type="text/javascript" src="app/js/spiderApp.js"></script>

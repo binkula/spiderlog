@@ -4,7 +4,7 @@
     app.directive("spiderList", function(){
         return{
             restrict: 'E',
-            templateUrl: 'app/templates/spiderList.html',
+            templateUrl: 'app/templates/spider-list.html',
             controller: function($http){
                 this.data = {};
 
@@ -13,21 +13,19 @@
                 $http.get("spiders.json").success(function(data){
                     spiderData.data = formatSpiderData(data);
                 });
-
-                console.log(this.data);
             },
             controllerAs: 'spiderList'
         };
     });
     
-    app.directive("spiderAdd", function(){
+    app.directive("spiderProfile", function(){
         return{
             restrict: 'E',
-            templateUrl: 'app/templates/spiderAdd.html',
+            templateUrl: 'app/templates/spider-profile.html',
             controller: function(){
             
             },
-            controllerAs: 'spiderAdd'
+            controllerAs: 'spiderProfile'
         }
     
     });
@@ -44,10 +42,10 @@
             
             //get number of weeks since last feeding
             spider.weeksSinceFed = checkLastFed(data[key].lastFed);
+            
+            spider.image = "images/" + data[key].image;
         }
 
-        console.log(data);
-        
         return data;    
     }
 
@@ -72,8 +70,6 @@
         var oneWeekInMillis = 604800000;
         var dateLastFed = Date.parse(lastFed);
         var diffInMillis = Math.abs(new Date() - dateLastFed);
-
-        console.log(lastFed, dateLastFed);
          
         var numOfWeeks = {};
         
@@ -81,7 +77,12 @@
 
         numOfWeeks.styleIndicator = numOfWeeks.number >= 4 ? 4 : numOfWeeks.number;
 
-        if(numOfWeeks.number > 1){
+        if(!numOfWeeks.number){
+            numOfWeeks.number = "";
+            numOfWeeks.description = "never";
+            numOfWeeks.styleIndicator = 4;
+        }
+        else if(numOfWeeks.number > 1){
             numOfWeeks.description = "weeks ago";
         }
         else{

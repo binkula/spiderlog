@@ -1,77 +1,166 @@
 /*colours*/
-@import url(http://fonts.googleapis.com/css?family=Patrick+Hand:400,700);
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+@import url(http://fonts.googleapis.com/css?family=Rokkitt:400,700);
 body, p, h1, h2, h3, h4, h5, h6 {
   margin: 0; }
 
 fieldset {
-  border: 0; }
+  border: 0;
+  margin: 0;
+  padding: 0; }
 
 body {
-  background: #ffffff;
-  font-family: "Patrick Hand", Arial, sans-serif;
+  background: #FBF6EE;
+  font-family: "Rokkitt", Arial, sans-serif;
   font-size: 18px; }
 
 h1 {
-  margin-bottom: 10px;
-  margin-top: 10px; }
-
-label {
-  display: inline-block;
-  text-align: right;
-  width: 75px; }
-
-/*colours*/
-.spider-list {
-  border-collapse: collapse;
-  width: 100%; }
-
-.spider-list td {
-  border: 1px solid #dddddd;
-  padding: 10px;
+  font-size: 50px;
+  margin-bottom: 50px;
+  margin-top: 20px;
   text-align: center; }
 
-.spider-list thead td {
-  color: #999999;
+#spiderlog {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: center;
+  width: 90%; }
+
+form input {
+  padding: 5px; }
+
+form label {
+  text-align: left; }
+
+form label,
+form input {
+  display: block;
+  font-family: "Rokkitt", Arial, sans-serif;
+  font-size: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%; }
+
+/*colours*/
+table {
+  border-collapse: collapse;
+  border-left: 1px solid #ADA9A3;
+  border-right: 1px solid #ADA9A3;
+  width: 100%; }
+
+td {
+  border-bottom: 1px solid #ADA9A3;
+  border-top: 1px solid #ADA9A3;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle; }
+
+thead td {
   font-size: 24px;
   font-weight: bold; }
 
 /*colours*/
+.fa {
+  color: #3B3937; }
+
 .button {
-  background: #999999;
+  background: #FBF6EE;
+  border: 1px solid #3B3937;
   border-radius: 10px;
-  color: #ffffff;
+  color: #3B3937;
   cursor: pointer;
   display: inline-block;
-  padding: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  text-transform: uppercase;
   transition: all .5s ease-out; }
   .button:hover {
-    background: #666666;
-    color: #ffffff; }
+    background: #D9D4CC; }
 
-.spider-list + .button,
-fieldset + .button {
+table button {
+  margin-bottom: 10px;
   margin-top: 10px; }
 
-.spider-list td .button {
-  width: 90%; }
-
 .fed-4 {
-  background: #666666;
-  color: #333333; }
+  background: #7D7A75;
+  color: #3B3937; }
 
 .fed-3 {
-  background: #999999;
-  color: #333333; }
+  background: #ADA9A3;
+  color: #3B3937; }
 
 .fed-2 {
-  background: #dddddd;
-  color: #333333; }
+  background: #D9D4CC;
+  color: #3B3937; }
 
 .fed-1 {
   background: none;
-  color: #333333; }
+  color: #3B3937; }
 
 .fed-0 {
-  color: #333333; }
+  color: #3B3937; }
+
+spider-list {
+    /*bottom:0;
+    left:0;
+    position:absolute;
+    top:0;
+    width:100%;
+
+    transition: all 1s ease-in-out;*/ }
+
+#spider-list-table img {
+  border-radius: 100px;
+  display: inline-block;
+  height: 50px;
+  margin-right: 20px;
+  vertical-align: middle;
+  width: 50px; }
+
+#spider-list-table tr td:first-child {
+  text-align: left; }
+
+.name {
+  cursor: pointer;
+  font-size: 24px;
+  text-align: left;
+  text-transform: uppercase; }
+
+#spider-add-button {
+  cursor: pointer;
+  font-size: 50px;
+  margin-bottom: 5px;
+  margin-top: 5px; }
+
+.feed-button {
+  font-size: 35px;
+  text-align: center; }
+
+spider-profile {
+  background: #FBF6EE;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 30px;
+  position: absolute;
+  right: 0;
+  top: 0; }
+
+spider-profile img {
+  border-radius: 100px;
+  height: 100px;
+  width: 100px; }
+
+spider-profile .close,
+spider-profile .save {
+  cursor: pointer;
+  font-size: 35px;
+  margin-bottom: 30px;
+  margin-top: 30px; }
 
 /*# sourceMappingURL=wireframe.css.map */

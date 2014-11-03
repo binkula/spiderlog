@@ -1,23 +1,30 @@
 @import 'vars';
 
+.fa{color:$darkest}
+
 .button{
-    background:$dark;
+    background:$lightest;
+    border:1px solid $darkest;
     border-radius:10px;
-    color:$lightest;
+    color:$darkest;
     cursor:pointer;
     display:inline-block;
-    padding:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    text-transform:uppercase;
 
     transition:all .5s ease-out;
 
     &:hover{
-        background:$darker;
-        color:$lightest;
+        background:$lighter;
     }
 }
 
-.spider-list + .button,
-fieldset + .button {margin-top:10px;}
+table button{
+    margin-bottom:10px;
+    margin-top:10px;
+}
 
-//.spider-list td:first-child .button{width:90%}
-.spider-list td .button{width:90%}
+

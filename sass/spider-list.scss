@@ -1,10 +1,6 @@
-@import 'forms';
-@import 'tables';
-@import 'buttons';
-
-$fed-4:$darker;
-$fed-3:$dark;
-$fed-2:$light;
+$fed-4:$dark;
+$fed-3:$light;
+$fed-2:$lighter;
 $fed-1:none;
 
 .fed-4{
@@ -25,6 +21,48 @@ $fed-1:none;
 }
 .fed-0{
     color:$darkest;
+}
+
+spider-list{
+    /*bottom:0;
+    left:0;
+    position:absolute;
+    top:0;
+    width:100%;
+
+    transition: all 1s ease-in-out;*/
+}
+
+#spider-list-table img{
+    border-radius:100px;
+    display:inline-block;
+    height:50px;
+    margin-right:20px;
+    vertical-align:middle;
+    width:50px;
+}
+
+#spider-list-table tr td:first-child{
+    text-align:left
+}
+
+.name{
+    cursor:pointer;
+    font-size:24px;
+    text-align:left;
+    text-transform:uppercase
+}
+
+#spider-add-button{
+    cursor:pointer;
+    font-size:50px;
+    margin-bottom:5px;
+    margin-top:5px;
+}
+
+.feed-button{
+    font-size:35px;
+    text-align:center;
 }
 
 

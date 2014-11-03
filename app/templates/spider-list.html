@@ -1,0 +1,28 @@
+<p ng-hide="spiderList.data.length">You haven't added any spiders yet.</p>
+
+<table id="spider-list-table" ng-show="spiderList.data.length">
+    <thead>
+        <tr>
+            <td>name</td>
+            <td>last fed</td>
+            <td>feed</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr 
+            ng-repeat="spider in spiderList.data | orderBy:['weeksSinceFed.styleIndicator', 'weeksSinceFed.number']:true"  
+            class="fed-{{spider.weeksSinceFed.styleIndicator}}">
+            <td>
+                <span class="name" ng-click="$parent.showProfile = true">
+                    <img ng-src="{{spider.image}}"/>
+                    {{spider.identification}}
+                </span>
+            </td>
+            <td>{{spider.weeksSinceFed.number}} {{spider.weeksSinceFed.description}}</td>
+            <td><i class="fa fa-check-square feed-button"></i></td>
+            
+        </tr>
+    </tbody>
+</table>
+<i class="fa fa-plus-circle" id="spider-add-button" ng-click="showProfile = true"></i>
+
