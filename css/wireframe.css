@@ -24,7 +24,6 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  text-align: center;
   width: 90%; }
 
 form input {
@@ -33,14 +32,15 @@ form input {
 form label {
   text-align: left; }
 
+form fieldset {
+  margin-left: auto;
+  margin-right: auto; }
+
 form label,
 form input {
   display: block;
   font-family: "Rokkitt", Arial, sans-serif;
-  font-size: 24px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%; }
+  font-size: 24px; }
 
 /*colours*/
 table {
@@ -62,13 +62,13 @@ thead td {
 
 /*colours*/
 .fa {
-  color: #3B3937; }
+  color: #6B6965; }
 
 .button {
   background: #FBF6EE;
   border: 1px solid #3B3937;
   border-radius: 10px;
-  color: #3B3937;
+  color: #6B6965;
   cursor: pointer;
   display: inline-block;
   padding-bottom: 10px;
@@ -120,6 +120,9 @@ spider-list {
   vertical-align: middle;
   width: 50px; }
 
+#spider-list-table thead td:first-child {
+  padding-left: 85px; }
+
 #spider-list-table tr td:first-child {
   text-align: left; }
 
@@ -131,17 +134,23 @@ spider-list {
 
 #spider-add-button {
   cursor: pointer;
+  display: block;
   font-size: 50px;
   margin-bottom: 5px;
-  margin-top: 5px; }
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  width: 50px; }
 
 .feed-button {
+  color: #3B3937;
   font-size: 35px;
   text-align: center; }
 
 spider-profile {
-  background: #FBF6EE;
+  background: #7D7A75;
   bottom: 0;
+  display: none;
   left: 0;
   padding-bottom: 30px;
   padding-left: 60px;
@@ -153,14 +162,101 @@ spider-profile {
 
 spider-profile img {
   border-radius: 100px;
-  height: 100px;
-  width: 100px; }
+  display: block;
+  height: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 180px; }
 
 spider-profile .close,
 spider-profile .save {
   cursor: pointer;
   font-size: 35px;
   margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 30px; }
+
+spider-profile.edit input {
+  display: block; }
+
+spider-profile.edit #profile-info,
+spider-profile.open #profile-info-edit {
+  display: none; }
+
+#profile-info {
+  padding-top: 30px; }
+
+spider-profile h2 {
+  font-size: 40px; }
+
+spider-profile p {
+  font-size: 30px; }
+
+#profile-info-edit,
+#profile-info {
+  margin-left: auto;
+  margin-right: auto;
+  width: 430px; }
+
+#profile-info-edit fieldset {
+  padding-top: 30px; }
+
+#profile-info-edit #fieldset-genus,
+#profile-info-edit #fieldset-species {
+  float: left; }
+  #profile-info-edit #fieldset-genus#fieldset-genus,
+  #profile-info-edit #fieldset-species#fieldset-genus {
+    margin-right: 10px; }
+
+#profile-info-edit #fieldset-size {
+  clear: left; }
+
+#profile-info-edit #spider-size {
+  float: left;
+  width: 40px; }
+
+#profile-info-edit .inches {
+  color: #6B6965;
+  float: left;
+  font-size: 90px;
+  height: 40px;
+  line-height: -56px;
+  margin-top: -16px;
+  padding-left: 6px; }
+
+spider-profile .edit-button {
+  color: #3B3937;
+  cursor: pointer;
+  display: block;
+  font-size: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  position: relative;
+  text-align: center;
+  width: 70px; }
+
+spider-profile .edit-button:before {
+  font-size: 20px;
+  position: absolute;
+  top: -6px;
+  right: 100%; }
+
+spider-profile .close-button {
+  color: #3B3937;
+  cursor: pointer;
+  float: right;
+  font-size: 30px; }
+
+spider-profile .save-button {
+  color: #3B3937;
+  cursor: pointer;
+  display: block;
+  font-size: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 50px; }
 
 /*# sourceMappingURL=wireframe.css.map */

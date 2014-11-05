@@ -10,10 +10,11 @@
     </thead>
     <tbody>
         <tr 
-            ng-repeat="spider in spiderList.data | orderBy:['weeksSinceFed.styleIndicator', 'weeksSinceFed.number']:true"  
+            ng-repeat="spider in spiderList.data | orderBy:['weeksSinceFed.styleIndicator', 'weeksSinceFed.number', '-id']:true"  
             class="fed-{{spider.weeksSinceFed.styleIndicator}}">
             <td>
-                <span class="name" ng-click="$parent.showProfile = true">
+                <span class="name" ng-click="$parent.open(spider.id)">
+                    {{spider.id}}
                     <img ng-src="{{spider.image}}"/>
                     {{spider.identification}}
                 </span>
@@ -24,5 +25,5 @@
         </tr>
     </tbody>
 </table>
-<i class="fa fa-plus-circle" id="spider-add-button" ng-click="showProfile = true"></i>
+<i class="fa fa-plus-circle" id="spider-add-button" ng-click="edit()"></i>
 

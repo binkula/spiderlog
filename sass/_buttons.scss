@@ -1,12 +1,12 @@
 @import 'vars';
 
-.fa{color:$darkest}
+.fa{color:$darker}
 
 .button{
     background:$lightest;
     border:1px solid $darkest;
     border-radius:10px;
-    color:$darkest;
+    color:$darker;
     cursor:pointer;
     display:inline-block;
     padding-bottom:10px;

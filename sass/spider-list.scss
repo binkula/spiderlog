@@ -42,6 +42,10 @@ spider-list{
     width:50px;
 }
 
+#spider-list-table thead td:first-child{
+    padding-left:85px
+}
+
 #spider-list-table tr td:first-child{
     text-align:left
 }
@@ -54,13 +58,18 @@ spider-list{
 }
 
 #spider-add-button{
-    cursor:pointer;
+    cursor:pointer; 
+    display:block;
     font-size:50px;
     margin-bottom:5px;
+    margin-left:auto;
+    margin-right:auto;
     margin-top:5px;
+    width:50px;
 }
 
 .feed-button{
+    color:$darkest;
     font-size:35px;
     text-align:center;
 }

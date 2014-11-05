@@ -1,80 +1,80 @@
 [
     {
         "id":"0",
-        "image":"spider0.jpg",
+        "image":"images/spider0.jpg",
         "name":"potato",
         "genus":"grammostola",
         "species":"rosea",
         "got":"09/01/13",
         "lastFed":"Thu Sep 26 2014",
         "lastMolt":"03/03/03",
-        "size":"6"
+        "size":6
     },
     {
         "id":"1",
-        "image":"spider1.jpg",
+        "image":"images/spider1.jpg",
         "name":"suze",
         "genus":"brachypelma",
         "species":"boehmei",
         "got":"07/01/23",
         "lastFed":"Thu Oct 23 2014",
         "lastMolt":"04/04/03",
-        "size":"6"
+        "size":6
     },
     {
         "id":"2",
-        "image":"spider2.jpg",
+        "image":"images/spider2.jpg",
         "name":"",
         "genus":"brachypelma",
         "species":"boehmei",
         "got":"07/01/23",
         "lastFed":"Thu Oct 16 2014",
         "lastMolt":"04/04/03",
-        "size":"6"
+        "size":6
     },
     {
         "id":"3",
-        "image":"spider3.jpg",
+        "image":"images/spider3.jpg",
         "name":"",
         "genus":"xenesthis",
         "species":"immanis",
         "got":"07/01/23",
         "lastFed":"Thu Oct 9 2014",
         "lastMolt":"04/04/03",
-        "size":"6"
+        "size":6
     },
     {
         "id":"4",
-        "image":"spider4.jpg",
+        "image":"images/spider4.jpg",
         "name":"",
         "genus":"xenesthis",
         "species":"immanis",
         "got":"07/01/23",
         "lastFed":"Thu Aug 14 2014",
         "lastMolt":"04/04/03",
-        "size":"6"
+        "size":6
     },
     {
         "id":"5",
-        "image":"spider5.jpg",
+        "image":"images/spider5.jpg",
         "name":"hansy",
         "genus":"chromatopelma",
         "species":"cyaneopubescens",
         "got":"07/01/23",
         "lastFed":"Thu Oct 29 2014",
         "lastMolt":"04/04/03",
-        "size":"6"
+        "size":6
     },
     {
         "id":"6",
-        "image":"spider0.jpg",
+        "image":"images/spider0.jpg",
         "name":"poopsy",
         "genus":"chromatopelma",
         "species":"cyaneopubescens",
         "got":"",
         "lastFed":"",
         "lastMolt":"",
-        "size":"6"
+        "size":6
     }
 
 ]
