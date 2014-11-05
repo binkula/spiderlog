@@ -42,6 +42,7 @@ spiderDataFactory.factory('dataFormatter', function($http){
     f.checkLastFed = function(lastFed){
         //check spider.lastFed to today's date and return in weeks
  
+        var oneDayInMillis = 86400000;
         var oneWeekInMillis = 604800000;
         var dateLastFed = Date.parse(lastFed);
         var diffInMillis = Math.abs(new Date() - dateLastFed);
@@ -52,23 +53,39 @@ spiderDataFactory.factory('dataFormatter', function($http){
 
         numOfWeeks.styleIndicator = numOfWeeks.number >= 4 ? 4 : numOfWeeks.number;
 
-        if(!numOfWeeks.number){
+        if (isNaN(numOfWeeks.number)){
             numOfWeeks.number = "";
             numOfWeeks.description = "never";
             numOfWeeks.styleIndicator = 4;
         }
-        else if(numOfWeeks.number > 1){
-            numOfWeeks.description = "weeks ago";
-        }
-        else{
-            if(numOfWeeks.number < 1) {
-                numOfWeeks.number = "< 1"
-                numOfWeeks.styleIndicator = 0;
+
+        else {
+            if (numOfWeeks.number > 1){
+                numOfWeeks.description = "weeks ago";
             }
+            else if (numOfWeeks.number == 1){
+                numOfWeeks.description = "week ago";
+            }
+            else if (numOfWeeks.number < 1) {
+                var days = Math.round(diffInMillis / oneDayInMillis);
+                console.log("days:",days);
 
-            numOfWeeks.description = "week ago";
-        }
+                numOfWeeks.number = days;
+                numOfWeeks.styleIndicator = 0;
+                numOfWeeks.description = "days ago";
 
+                if (days == 0){
+                    numOfWeeks.number = "";
+                    numOfWeeks.description = "today";
+                }
+                else if (days == 1){
+                   numOfWeeks.description = "day ago"; 
+                }
+                else if (days > 1) {
+                    numOfWeeks.description = "weeks ago";
+                }
+            }
+         }
 
         return numOfWeeks;
     };

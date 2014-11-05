@@ -10,7 +10,7 @@
     </thead>
     <tbody>
         <tr 
-            ng-repeat="spider in spiderList.data | orderBy:['-weeksSinceFed.number', 'id']"  
+            ng-repeat="spider in spiderList.data | orderBy:['-weeksSinceFed.styleIndicator', '-weeksSinceFed.number', '-id']"  
             class="fed-{{spider.weeksSinceFed.styleIndicator}}">
             <td>
                 <span class="name" ng-click="$parent.open(spider.id)">
@@ -20,7 +20,7 @@
                 </span>
             </td>
             <td>{{spider.weeksSinceFed.number}} {{spider.weeksSinceFed.description}}</td>
-            <td><i class="fa fa-check-square feed-button"></i></td>
+            <td><i class="fa fa-check-square feed-button" ng-click="$parent.feed(spider.id)"></i></td>
             
         </tr>
     </tbody>

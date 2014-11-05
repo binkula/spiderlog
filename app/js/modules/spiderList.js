@@ -13,6 +13,14 @@ spiderListModule.directive('spiderList', function(){
                     sd = _this.data;
                 }); 
 
+                $scope.feed = function(id){
+                    sd[id].lastFed = new Date();
+
+                    sd[id].weeksSinceFed = dataFormatter.checkLastFed(sd[id].lastFed);
+
+                    console.log(sd[id]);
+                }
+
             },
             controllerAs: 'spiderList'
         };
