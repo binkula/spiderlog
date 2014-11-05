@@ -1,6 +1,6 @@
 [
     {
-        "id":"0",
+        "id":0,
         "image":"images/spider0.jpg",
         "name":"potato",
         "genus":"grammostola",
@@ -11,7 +11,7 @@
         "size":6
     },
     {
-        "id":"1",
+        "id":1,
         "image":"images/spider1.jpg",
         "name":"suze",
         "genus":"brachypelma",
@@ -22,7 +22,7 @@
         "size":6
     },
     {
-        "id":"2",
+        "id":2,
         "image":"images/spider2.jpg",
         "name":"",
         "genus":"brachypelma",
@@ -33,7 +33,7 @@
         "size":6
     },
     {
-        "id":"3",
+        "id":3,
         "image":"images/spider3.jpg",
         "name":"",
         "genus":"xenesthis",
@@ -44,7 +44,7 @@
         "size":6
     },
     {
-        "id":"4",
+        "id":4,
         "image":"images/spider4.jpg",
         "name":"",
         "genus":"xenesthis",
@@ -55,7 +55,7 @@
         "size":6
     },
     {
-        "id":"5",
+        "id":5,
         "image":"images/spider5.jpg",
         "name":"hansy",
         "genus":"chromatopelma",
@@ -66,7 +66,7 @@
         "size":6
     },
     {
-        "id":"6",
+        "id":6,
         "image":"images/spider0.jpg",
         "name":"poopsy",
         "genus":"chromatopelma",

@@ -82,6 +82,7 @@ spiderProfileModule.directive('spiderProfile', function(){
                     sd[id].species = spider.species;
                     sd[id].size = spider.size;
                     sd[id].weeksSinceFed = spider.weeksSinceFed;
+console.log(sd);
 
                     $scope.close();
                 }
