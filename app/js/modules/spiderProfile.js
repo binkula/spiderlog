@@ -1,10 +1,10 @@
-var spiderProfileModule = angular.module('spiderProfileModule', ['spiderDataFactory']);
+var spiderProfileModule = angular.module('spiderProfileModule', ['spiderDataFactory','angucomplete-alt']);
 
 spiderProfileModule.directive('spiderProfile', function(){
         return{
             restrict: 'E',
             templateUrl: 'app/templates/spider-profile.html',
-            controller: function($scope, dataFormatter){
+            controller: function($scope, $http, dataFormatter){
                 
                 var _this = this;
                 _this.data = {};
@@ -16,29 +16,52 @@ spiderProfileModule.directive('spiderProfile', function(){
                     profile.style.display = "block";
 
                     S.addClass(profile, "open");
-                                        
-                    if (id){
+
+                    if (!isNaN(id)) {
                         $scope.spiderProfileForm = sd[id];
+                        console.log(sd);
                     }
-                    console.log(sd[id]);
                 }
 
                 $scope.edit = function(id){
+                    var _scope = $scope;
+                    _scope.speciesList = [];                
+
                     profile.style.display = "block";
 
                     S.removeClass(profile, "open");
                     S.addClass(profile, "edit");
-                                        
-                    if (!id){
-                        console.log("hi");
+
+                    var gInput = document.getElementById("spider-genus_value");
+                    var sInput = document.getElementById("spider-species_value");
+                    var gValue = "";
+                    var sValue = "";
+
+                    $http.get("app/js/json/species.json").success(function(data){
+                        _scope.speciesList = data;
+                    }); 
+
+                    if (isNaN(id)) {
                         $scope.spiderProfileForm = {};
                         $scope.spiderProfileForm.image = "images/default.jpg";
-                        console.log(_this.data);
                     }
+                    else{
+                        gValue = sd[id].genus;
+                        sValue = sd[id].species;
+                    }
+console.log($scope);
+
+                    $scope.selectedGenus = {
+                        "title": gValue                   
+                    };
+
+                    gInput.value = gValue;
+                    sInput.value = sValue;
                 }
 
+
                 $scope.editPhoto = function(id){
-                    if (!id){
+                    if (isNaN(id)){
                         console.log("no id");
                     }
                     else{
@@ -60,7 +83,22 @@ spiderProfileModule.directive('spiderProfile', function(){
 
                     spider = $scope.spiderProfileForm;
 
-                    if (!id) {
+                    var gInput = document.getElementById("spider-genus_value");
+                    var sInput = document.getElementById("spider-species_value");
+                    
+                    if (gInput.value != "") { 
+                        spider.genus = gInput.value;
+                    }
+                    else{spider.genus = "unknown"}
+
+                    if (sInput.value != "") {
+                        spider.species = sInput.value;
+                    }
+                    else{
+                        spider.species = "species";
+                    }
+
+                    if (isNaN(id)) {
                         //new id - doing this shitty styles for the wireframe
                         id = sd.length;
 
@@ -73,7 +111,8 @@ spiderProfileModule.directive('spiderProfile', function(){
 
                     //format the data for the table
                     spider = dataFormatter.formatData(spider);
-                    
+console.log(spider);
+
                     sd[id].id = id;
                     sd[id].image = spider.image;
                     sd[id].name = spider.name;

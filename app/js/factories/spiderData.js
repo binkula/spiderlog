@@ -28,7 +28,15 @@ spiderDataFactory.factory('dataFormatter', function($http){
         var identification;
 
         if(!spider.name){
-            identification = spider.size + '" '
+            var inch = " ";
+            var size = "unsized";
+
+            if (!isNaN(spider.size)) {
+                inch = '" ';
+                size = spider.size;
+            }
+
+            identification = size + inch
                                 + spider.genus + ' '
                                 + spider.species;
         }

@@ -8,7 +8,7 @@ spiderListModule.directive('spiderList', function(){
                 var _this = this;
                 _this.data = {};
                 
-                $http.get("spiders.json").success(function(data){
+                $http.get("app/js/json/spiders.json").success(function(data){
                     _this.data = dataFormatter.formatAllData(data);
                     sd = _this.data;
                 }); 

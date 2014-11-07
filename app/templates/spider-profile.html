@@ -15,19 +15,43 @@
         <form name="spiderProfileForm">
             <fieldset>
                 <label for="spider-name">Name</label>
-                <input id="spider-name" name="spider-name" ng-model="spiderProfileForm.name"></input>
+                <input id="spider-name" name="spider-name" placeholder="name" ng-model="spiderProfileForm.name"></input>
             </fieldset>
             <fieldset id="fieldset-genus">
                 <label for="spider-genus">Genus</label>
-                <input id="spider-genus" name="spider-genus" ng-model="spiderProfileForm.genus"></input>
+                <angucomplete-alt 
+                    id="spider-genus" 
+                    placeholder="search genera" 
+                    pause="10" 
+                    selected-object="selectedGenus" 
+                    local-data="speciesList" 
+                    search-fields="genus" 
+                    title-field="genus" 
+                    minlength="1" 
+                    input-class="form-control form-control-small" 
+                    match-class="highlight" 
+                    override-suggestions="true">
+                </angucomplete-alt>
             </fieldset>
             <fieldset id="fieldset-species">
                 <label for="spider-species">Species</label>
-                <input id="spider-species" name="spider-species" ng-model="spiderProfileForm.species"></input>
+                <angucomplete-alt 
+                    id="spider-species" 
+                    placeholder="search species" 
+                    pause="10" 
+                    selected-object="selectedSpecies" 
+                    local-data="selectedGenus.description.species" 
+                    search-fields="species" 
+                    title-field="species" 
+                    minlength="1" 
+                    input-class="form-control form-control-small" 
+                    match-class="highlight" 
+                    override-suggestions="true">
+                </angucomplete-alt>
             </fieldset>
             <fieldset id="fieldset-size">
                 <label for="spider-size">Size [in inches]</label>
-                <input id="spider-size" name="spider-size" type="number" ng-model="spiderProfileForm.size"></input>
+                <input id="spider-size" name="spider-size" placeholder="size" type="number" ng-model="spiderProfileForm.size"></input>
                 <span class="inches">”</span>
             </fieldset>
             <i class="fa fa-check-circle save-button" ng-click="save(spiderProfileForm.id)"></i>

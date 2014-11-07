@@ -1,0 +1,3382 @@
+[
+  {
+    "genus": "Thrigmopoeus", 
+    "species": [
+      {
+        "species": "insignis"
+      }, 
+      {
+        "species": "trunculentus (Lesser Goa Mustard)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Ephebopus", 
+    "species": [
+      {
+        "species": "cyanognathus (Blue Fang)"
+      }, 
+      {
+        "species": "foliatus"
+      }, 
+      {
+        "species": "murinus (Skeleton Tarantula)"
+      }, 
+      {
+        "species": "rufescens (Burgundy Skeleton)"
+      }, 
+      {
+        "species": "uatuman (Emerald Skeleton)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Schismatothele", 
+    "species": [
+      {
+        "species": "lineata"
+      }
+    ]
+  }, 
+  {
+    "genus": "Haploclastus", 
+    "species": [
+      {
+        "species": "cervinus"
+      }, 
+      {
+        "species": "himalayensis"
+      }, 
+      {
+        "species": "kayi"
+      }, 
+      {
+        "species": "nilgirinus"
+      }, 
+      {
+        "species": "robustus"
+      }, 
+      {
+        "species": "satyanus"
+      }, 
+      {
+        "species": "tenebrosus"
+      }, 
+      {
+        "species": "validus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Chromatopelma", 
+    "species": [
+      {
+        "species": "cyaneopubescens (Greenbottle Blue; GBB)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Holothele", 
+    "species": [
+      {
+        "species": "colonica"
+      }, 
+      {
+        "species": "culebrae"
+      }, 
+      {
+        "species": "denticulata"
+      }, 
+      {
+        "species": "incei (Trinidad Olive)"
+      }, 
+      {
+        "species": "longipes"
+      }, 
+      {
+        "species": "ludwigi"
+      }, 
+      {
+        "species": "recta"
+      }, 
+      {
+        "species": "rondoni"
+      }, 
+      {
+        "species": "sanguiniceps"
+      }, 
+      {
+        "species": "sericea"
+      }, 
+      {
+        "species": "shoemakeri"
+      }, 
+      {
+        "species": "steini"
+      }, 
+      {
+        "species": "sulfurensis"
+      }, 
+      {
+        "species": "vellardi"
+      }, 
+      {
+        "species": "waikoshiemi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Chilobrachys", 
+    "species": [
+      {
+        "species": "andersoni (Burmese mustard)"
+      }, 
+      {
+        "species": "annandalei"
+      }, 
+      {
+        "species": "assamensis"
+      }, 
+      {
+        "species": "bicolor"
+      }, 
+      {
+        "species": "brevipes"
+      }, 
+      {
+        "species": "dyscolus"
+      }, 
+      {
+        "species": "femoralis"
+      }, 
+      {
+        "species": "fimbriatus (Indian Violet)"
+      }, 
+      {
+        "species": "flavopilosus"
+      }, 
+      {
+        "species": "fumosus"
+      }, 
+      {
+        "species": "hardwicki"
+      }, 
+      {
+        "species": "huahini (Hauhini Bird Spider)"
+      }, 
+      {
+        "species": "hubei"
+      }, 
+      {
+        "species": "jingzhao"
+      }, 
+      {
+        "species": "sp. \"Meghalaya small\" (Indian Metallic Red)"
+      }, 
+      {
+        "species": "nitelinus"
+      }, 
+      {
+        "species": "oculatus"
+      }, 
+      {
+        "species": "paviei"
+      }, 
+      {
+        "species": "pococki"
+      }, 
+      {
+        "species": "sericeus (Asian mustard)"
+      }, 
+      {
+        "species": "soricinus"
+      }, 
+      {
+        "species": "stridulans"
+      }, 
+      {
+        "species": "thorelli"
+      }, 
+      {
+        "species": "tschankoensis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Plesiopelma", 
+    "species": [
+      {
+        "species": "flavohirtum"
+      }, 
+      {
+        "species": "gertschi"
+      }, 
+      {
+        "species": "imperatrix"
+      }, 
+      {
+        "species": "insulare"
+      }, 
+      {
+        "species": "longisternale"
+      }, 
+      {
+        "species": "minense"
+      }, 
+      {
+        "species": "myodes"
+      }, 
+      {
+        "species": "physopus"
+      }, 
+      {
+        "species": "rectimanum"
+      }, 
+      {
+        "species": "semiaurantiacum"
+      }
+    ]
+  }, 
+  {
+    "genus": "Psalmopoeus", 
+    "species": [
+      {
+        "species": "affinis"
+      }, 
+      {
+        "species": "cambridgei (Trinidad Chevron)"
+      }, 
+      {
+        "species": "ecclesiasticus"
+      }, 
+      {
+        "species": "emeraldus"
+      }, 
+      {
+        "species": "intermedius"
+      }, 
+      {
+        "species": "irminia (Venezuelan Suntiger)"
+      }, 
+      {
+        "species": "langenbucheri"
+      }, 
+      {
+        "species": "maya"
+      }, 
+      {
+        "species": "plantaris"
+      }, 
+      {
+        "species": "pulcher (Panama Blonde)"
+      }, 
+      {
+        "species": "reduncus (Orangemouth Tree Spider)"
+      }, 
+      {
+        "species": "rufus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Pachistopelma", 
+    "species": [
+      {
+        "species": "concolor"
+      }, 
+      {
+        "species": "rufonigrum"
+      }
+    ]
+  }, 
+  {
+    "genus": "Hapalotremus", 
+    "species": [
+      {
+        "species": "albipes"
+      }, 
+      {
+        "species": "cyclothorax"
+      }, 
+      {
+        "species": "exilis"
+      }, 
+      {
+        "species": "major"
+      }, 
+      {
+        "species": "muticus"
+      }, 
+      {
+        "species": "scintillans"
+      }
+    ]
+  }, 
+  {
+    "genus": "Oligoxystre", 
+    "species": [
+      {
+        "species": "auratum"
+      }, 
+      {
+        "species": "bolivianum"
+      }, 
+      {
+        "species": "caatinga"
+      }, 
+      {
+        "species": "diamantinensis"
+      }, 
+      {
+        "species": "dominguense"
+      }, 
+      {
+        "species": "rufoniger"
+      }, 
+      {
+        "species": "tucuruiense"
+      }
+    ]
+  }, 
+  {
+    "genus": "Tapinauchenius", 
+    "species": [
+      {
+        "species": "brunneus"
+      }, 
+      {
+        "species": "cupreus"
+      }, 
+      {
+        "species": "elenae"
+      }, 
+      {
+        "species": "gigas (Orange Chevron)"
+      }, 
+      {
+        "species": "latipes"
+      }, 
+      {
+        "species": "plumipes (Trinidad Mahogany)"
+      }, 
+      {
+        "species": "sanctivincenti"
+      }, 
+      {
+        "species": "subcaeruleus"
+      }, 
+      {
+        "species": "violaceus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Iridopelma", 
+    "species": [
+      {
+        "species": "hirsutum (Amazon Ribbed Tree Spider)"
+      }, 
+      {
+        "species": "seladonium"
+      }, 
+      {
+        "species": "zorodes (Brazilian Purple)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Hysterocrates", 
+    "species": [
+      {
+        "species": "affinis"
+      }, 
+      {
+        "species": "angusticeps"
+      }, 
+      {
+        "species": "apostolicus (Cricket Legged Baboon)"
+      }, 
+      {
+        "species": "crassipes (Cameroon Brown)"
+      }, 
+      {
+        "species": "didymus"
+      }, 
+      {
+        "species": "ederi (Guinea Black Birdeater)"
+      }, 
+      {
+        "species": "gigas (Cameroon Red)"
+      }, 
+      {
+        "species": "greeffi"
+      }, 
+      {
+        "species": "greshoffi"
+      }, 
+      {
+        "species": "hercules (Hercules Baboon)"
+      }, 
+      {
+        "species": "laticeps (Nigerian Rusted)"
+      }, 
+      {
+        "species": "maximus"
+      }, 
+      {
+        "species": "ochraceus"
+      }, 
+      {
+        "species": "robustus"
+      }, 
+      {
+        "species": "scepticus (Giant Olive-Brown Baboon)"
+      }, 
+      {
+        "species": "spellenbergi"
+      }, 
+      {
+        "species": "weileri"
+      }, 
+      {
+        "species": "vosseleri"
+      }
+    ]
+  }, 
+  {
+    "genus": "Cubanana", 
+    "species": [
+      {
+        "species": "cristinae"
+      }
+    ]
+  }, 
+  {
+    "genus": "Metriopelma", 
+    "species": [
+      {
+        "species": "breyeri"
+      }, 
+      {
+        "species": "coloratum"
+      }, 
+      {
+        "species": "drymusetes"
+      }, 
+      {
+        "species": "familiare"
+      }, 
+      {
+        "species": "ledeamae"
+      }, 
+      {
+        "species": "spinulosum"
+      }, 
+      {
+        "species": "variegata"
+      }, 
+      {
+        "species": "velox"
+      }, 
+      {
+        "species": "zebratum (Costa Rican Suntiger)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Poecilotheria", 
+    "species": [
+      {
+        "species": "fasciata (Sri-Lankan Ornamental)"
+      }, 
+      {
+        "species": "formosa (Salem Ornamental)"
+      }, 
+      {
+        "species": "hanumavilasumica (Rameshwaram Ornamental)"
+      }, 
+      {
+        "species": "metallica (Gooty Sapphire Ornamental)"
+      }, 
+      {
+        "species": "miranda (Bengal Spotted Ornamental)"
+      }, 
+      {
+        "species": "nallamalaiensis (Nalamalla's Ornamental)"
+      }, 
+      {
+        "species": "ornata (Fringed Ornamental)"
+      }, 
+      {
+        "species": "pederseni (Pedersen's Ornamental)"
+      }, 
+      {
+        "species": "pococki"
+      }, 
+      {
+        "species": "regalis (Indian Ornamental)"
+      }, 
+      {
+        "species": "rufilata (Redslate Ornamental)"
+      }, 
+      {
+        "species": "smithi (Yellowbacked Ornamental)"
+      }, 
+      {
+        "species": "striata (Mysore Ornamental)"
+      }, 
+      {
+        "species": "subfusca \u201cHighland and Lowland\u201d (Ivory Ornamental)"
+      }, 
+      {
+        "species": "tigrinawesseli (Tiger Ornamental)"
+      }, 
+      {
+        "species": "uniformis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Haplopelma", 
+    "species": [
+      {
+        "species": "albostriatum (Thai Zebra)"
+      }, 
+      {
+        "species": "doriae"
+      }, 
+      {
+        "species": "hainanum (Black Earthtiger)"
+      }, 
+      {
+        "species": "lividum (Cobalt Blue)"
+      }, 
+      {
+        "species": "longipes"
+      }, 
+      {
+        "species": "minax (Thailand Black)"
+      }, 
+      {
+        "species": "robustum"
+      }, 
+      {
+        "species": "salangense"
+      }, 
+      {
+        "species": "schmidti (Golden Earthtiger)"
+      }, 
+      {
+        "species": "vonwirthi (Von Worth's Earthtiger)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Lasiodora", 
+    "species": [
+      {
+        "species": "acanthognatha"
+      }, 
+      {
+        "species": "benedeni"
+      }, 
+      {
+        "species": "boliviana"
+      }, 
+      {
+        "species": "brevibulba"
+      }, 
+      {
+        "species": "carinata"
+      }, 
+      {
+        "species": "citharacantha"
+      }, 
+      {
+        "species": "cristata (White Striped Birdeater)"
+      }, 
+      {
+        "species": "cryptostigma"
+      }, 
+      {
+        "species": "curtior"
+      }, 
+      {
+        "species": "differens"
+      }, 
+      {
+        "species": "difficilis (Brazilian Fire Red)"
+      }, 
+      {
+        "species": "dolichosterna"
+      }, 
+      {
+        "species": "dulcicola"
+      }, 
+      {
+        "species": "erythrocythara"
+      }, 
+      {
+        "species": "fallax"
+      }, 
+      {
+        "species": "fracta"
+      }, 
+      {
+        "species": "gutzkei"
+      }, 
+      {
+        "species": "icecu"
+      }, 
+      {
+        "species": "isabellina"
+      }, 
+      {
+        "species": "itabunae"
+      }, 
+      {
+        "species": "klugi (Scarlet Birdeater)"
+      }, 
+      {
+        "species": "lakoi"
+      }, 
+      {
+        "species": "mariannae"
+      }, 
+      {
+        "species": "moreni"
+      }, 
+      {
+        "species": "panamana"
+      }, 
+      {
+        "species": "pantherina"
+      }, 
+      {
+        "species": "parahybana (Brazilian Salmon Pink Birdeater)"
+      }, 
+      {
+        "species": "parvior"
+      }, 
+      {
+        "species": "pleoplectra"
+      }, 
+      {
+        "species": "puriscal"
+      }, 
+      {
+        "species": "rubitarsa"
+      }, 
+      {
+        "species": "saeva"
+      }, 
+      {
+        "species": "spinipes"
+      }, 
+      {
+        "species": "sternalis"
+      }, 
+      {
+        "species": "striatipes (Brazilian Brown)"
+      }, 
+      {
+        "species": "subcanens"
+      }, 
+      {
+        "species": "tetrica"
+      }, 
+      {
+        "species": "trinitatis"
+      }, 
+      {
+        "species": "pauciaculeis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Harpactirella", 
+    "species": [
+      {
+        "species": "domicola"
+      }, 
+      {
+        "species": "helenae"
+      }, 
+      {
+        "species": "insidiosa"
+      }, 
+      {
+        "species": "karrooica"
+      }, 
+      {
+        "species": "lapidaria"
+      }, 
+      {
+        "species": "lightfooti"
+      }, 
+      {
+        "species": "longipes"
+      }, 
+      {
+        "species": "magna"
+      }, 
+      {
+        "species": "schwarzi"
+      }, 
+      {
+        "species": "spinosa"
+      }, 
+      {
+        "species": "treleaveni"
+      }
+    ]
+  }, 
+  {
+    "genus": "Lampropelma", 
+    "species": [
+      {
+        "species": "nigerrimum (Borneo Black)"
+      }, 
+      {
+        "species": "violaceopes (Singapore Blue)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Lasiodorides", 
+    "species": [
+      {
+        "species": "longicolli"
+      }, 
+      {
+        "species": "polycuspulatus (Peruvian Blonde)"
+      }, 
+      {
+        "species": "rolinae"
+      }, 
+      {
+        "species": "striatus (Stripe Leg)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Crassicrus", 
+    "species": [
+      {
+        "species": "lamanai (Cinnamon Tarantula)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Schizopelma", 
+    "species": [
+      {
+        "species": "bicarinatum"
+      }, 
+      {
+        "species": "masculinum"
+      }, 
+      {
+        "species": "sorkini"
+      }
+    ]
+  }, 
+  {
+    "genus": "Heteroscodra", 
+    "species": [
+      {
+        "species": "crassipes (Cameroon Brown)"
+      }, 
+      {
+        "species": "crassipes latithorax"
+      }, 
+      {
+        "species": "maculata (Togo Starburst Baboon)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Bonnetina", 
+    "species": [
+      {
+        "species": "alagoni"
+      }, 
+      {
+        "species": "cyaneifemur (Mexican Blue Femur)"
+      }, 
+      {
+        "species": "rudloffi (Michoacan Rustrump)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Maraca", 
+    "species": [
+      {
+        "species": "cabacla"
+      }, 
+      {
+        "species": "horrida"
+      }
+    ]
+  }, 
+  {
+    "genus": "Stromatopelma", 
+    "species": [
+      {
+        "species": "batesi"
+      }, 
+      {
+        "species": "calceatum (Featherleg baboon)"
+      }, 
+      {
+        "species": "griseipes"
+      }, 
+      {
+        "species": "fumigatum"
+      }, 
+      {
+        "species": "pachypoda"
+      }, 
+      {
+        "species": "satanas"
+      }
+    ]
+  }, 
+  {
+    "genus": "Paraphysa", 
+    "species": [
+      {
+        "species": "parvula"
+      }, 
+      {
+        "species": "peruviana"
+      }, 
+      {
+        "species": "riparia"
+      }, 
+      {
+        "species": "scrofa (Chilean Copper)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Phoneyusa", 
+    "species": [
+      {
+        "species": "antilope"
+      }, 
+      {
+        "species": "belandana"
+      }, 
+      {
+        "species": "bettoni"
+      }, 
+      {
+        "species": "bidentata"
+      }, 
+      {
+        "species": "ituriensis"
+      }, 
+      {
+        "species": "bouvieri"
+      }, 
+      {
+        "species": "buettneri"
+      }, 
+      {
+        "species": "celerierae (Ivory Coast Tarantula)"
+      }, 
+      {
+        "species": "chevalieri"
+      }, 
+      {
+        "species": "cultridens"
+      }, 
+      {
+        "species": "efuliensis"
+      }, 
+      {
+        "species": "elephantiasis"
+      }, 
+      {
+        "species": "gabonica"
+      }, 
+      {
+        "species": "giltayi"
+      }, 
+      {
+        "species": "gracilipes"
+      }, 
+      {
+        "species": "gregori"
+      }, 
+      {
+        "species": "lesserti"
+      }, 
+      {
+        "species": "manicata"
+      }, 
+      {
+        "species": "minima"
+      }, 
+      {
+        "species": "mutica"
+      }, 
+      {
+        "species": "nigroventris"
+      }, 
+      {
+        "species": "principium"
+      }, 
+      {
+        "species": "rufa"
+      }, 
+      {
+        "species": "rutilata"
+      }, 
+      {
+        "species": "westi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Stichoplastoris", 
+    "species": [
+      {
+        "species": "angustatus"
+      }, 
+      {
+        "species": "asterix"
+      }, 
+      {
+        "species": "denticulatus"
+      }, 
+      {
+        "species": "elusinus"
+      }, 
+      {
+        "species": "longistylus (El Salvador Fawn Birdeater)"
+      }, 
+      {
+        "species": "obelix"
+      }, 
+      {
+        "species": "schusterae"
+      }, 
+      {
+        "species": "stylipus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Megaphobema", 
+    "species": [
+      {
+        "species": "mesomelas (Costa Rican Redleg)"
+      }, 
+      {
+        "species": "peterklaasi (Costa Rican Black Velvet)"
+      }, 
+      {
+        "species": "robustum (Colombian Giant)"
+      }, 
+      {
+        "species": "teceae"
+      }, 
+      {
+        "species": "velvetosoma (Ecuadorian Brown Velvet)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Tmesiphantes", 
+    "species": [
+      {
+        "species": "amadoi"
+      }, 
+      {
+        "species": "bethaniae"
+      }, 
+      {
+        "species": "caymmii"
+      }, 
+      {
+        "species": "nubilus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Encyocrates", 
+    "species": [
+      {
+        "species": "raffrayi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Pterinochilus", 
+    "species": [
+      {
+        "species": "alluaudi"
+      }, 
+      {
+        "species": "andrewsmithi"
+      }, 
+      {
+        "species": "chordatus"
+      }, 
+      {
+        "species": "cryptus"
+      }, 
+      {
+        "species": "lugardi"
+      }, 
+      {
+        "species": "murinus (Mombasa Golden Starburst; Starburst Baboon; Orange Baboon Tarantula; OBT)"
+      }, 
+      {
+        "species": "raygabrieli"
+      }, 
+      {
+        "species": "simoni"
+      }, 
+      {
+        "species": "vorax"
+      }
+    ]
+  }, 
+  {
+    "genus": "Selenotypus", 
+    "species": [
+      {
+        "species": "plumipes"
+      }
+    ]
+  }, 
+  {
+    "genus": "Pseudhapalopus", 
+    "species": [
+      {
+        "species": "aculeatus"
+      }, 
+      {
+        "species": "sp. \"blue\" (Colombian Blue Bottle)"
+      }, 
+      {
+        "species": "spinulopalpus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Catumiri", 
+    "species": [
+      {
+        "species": "argentinense"
+      }, 
+      {
+        "species": "chicaoi"
+      }, 
+      {
+        "species": "petropolium"
+      }, 
+      {
+        "species": "uruguayense"
+      }
+    ]
+  }, 
+  {
+    "genus": "Coremiocnemis", 
+    "species": [
+      {
+        "species": "cunicularia"
+      }, 
+      {
+        "species": "tropix"
+      }, 
+      {
+        "species": "validus (Malay Reddish Brown)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Cyriopagopus", 
+    "species": [
+      {
+        "species": "dromeus"
+      }, 
+      {
+        "species": "paganus (Asian Chevron)"
+      }, 
+      {
+        "species": "schioedtei (Malaysian Earth Tiger)"
+      }, 
+      {
+        "species": "thorelli (Malaysian Earth Tiger)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Xenesthis", 
+    "species": [
+      {
+        "species": "immanis (Colombian Purple Bloom; Colombian Lesserblack)"
+      }, 
+      {
+        "species": "intermedia (Amazon Blue Bloom)"
+      }, 
+      {
+        "species": "monstrosa (Colombian Giant Black)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Clavopelma", 
+    "species": [
+      {
+        "species": "tamaulipeca"
+      }
+    ]
+  }, 
+  {
+    "genus": "Agnostopelma", 
+    "species": [
+      {
+        "species": "gardel"
+      }, 
+      {
+        "species": "tota"
+      }
+    ]
+  }, 
+  {
+    "genus": "Yamia", 
+    "species": [
+      {
+        "species": "bundokalbo"
+      }, 
+      {
+        "species": "muta"
+      }, 
+      {
+        "species": "watasei"
+      }
+    ]
+  }, 
+  {
+    "genus": "Acanthopelma", 
+    "species": [
+      {
+        "species": "beccarii"
+      }, 
+      {
+        "species": "rufescens"
+      }
+    ]
+  }, 
+  {
+    "genus": "Eumenophorus", 
+    "species": [
+      {
+        "species": "clementsi"
+      }, 
+      {
+        "species": "stridulantissimus"
+      }, 
+      {
+        "species": "murphyorum"
+      }
+    ]
+  }, 
+  {
+    "genus": "Heterothele", 
+    "species": [
+      {
+        "species": "affinis"
+      }, 
+      {
+        "species": "atropha"
+      }, 
+      {
+        "species": "caudicula"
+      }, 
+      {
+        "species": "darcheni"
+      }, 
+      {
+        "species": "decemnotata"
+      }, 
+      {
+        "species": "gabonensis"
+      }, 
+      {
+        "species": "honesta"
+      }, 
+      {
+        "species": "hullwilliamsi"
+      }, 
+      {
+        "species": "ogbunikia"
+      }, 
+      {
+        "species": "spinipes"
+      }, 
+      {
+        "species": "villosella (Tanzanian Chestnut)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Brachypelma", 
+    "species": [
+      {
+        "species": "albiceps (Mexican Golden Red Rump)"
+      }, 
+      {
+        "species": "albopilosum (Honduran Curly Hair)"
+      }, 
+      {
+        "species": "albovagans (Hybrid; albopilosum x vagans)"
+      }, 
+      {
+        "species": "andrewi"
+      }, 
+      {
+        "species": "angustum (Costa Rican Red)"
+      }, 
+      {
+        "species": "annitha (Mexican Giant Red Knee)"
+      }, 
+      {
+        "species": "auratum (Mexican Flame Knee)"
+      }, 
+      {
+        "species": "aureoceps"
+      }, 
+      {
+        "species": "baumgarteni (Mexican Orange Beauty)"
+      }, 
+      {
+        "species": "boehmei (Mexican Fire Leg)"
+      }, 
+      {
+        "species": "embrithes"
+      }, 
+      {
+        "species": "emilia (Mexican Red Leg)"
+      }, 
+      {
+        "species": "epicureanum (Yucatan Rustrump)"
+      }, 
+      {
+        "species": "fossorium (Mexican Skeleton Knee)"
+      }, 
+      {
+        "species": "hamorii"
+      }, 
+      {
+        "species": "kahlenbergi"
+      }, 
+      {
+        "species": "klaasi (Mexican Pink)"
+      }, 
+      {
+        "species": "sabulosum (Guatemalan Red Rump)"
+      }, 
+      {
+        "species": "schroederi"
+      }, 
+      {
+        "species": "smithi (Mexican Red Knee)"
+      }, 
+      {
+        "species": "vagans (Mexican Red Rump)"
+      }, 
+      {
+        "species": "verdezi (Mexican Rose Grey)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Nhandu", 
+    "species": [
+      {
+        "species": "chromatus (Brazilian Red and White)"
+      }, 
+      {
+        "species": "coloratovillosus (Brazilian Black and White)"
+      }, 
+      {
+        "species": "vulpinus (Brazilian Giant Blonde)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Chaetopelma", 
+    "species": [
+      {
+        "species": "adenense"
+      }, 
+      {
+        "species": "concolor"
+      }, 
+      {
+        "species": "karlamani"
+      }, 
+      {
+        "species": "olivaceum"
+      }, 
+      {
+        "species": "webborum"
+      }
+    ]
+  }, 
+  {
+    "genus": "Reversopelma", 
+    "species": [
+      {
+        "species": "petersi (Peruvian Rusty)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Annandaliella", 
+    "species": [
+      {
+        "species": "ernakulamensis"
+      }, 
+      {
+        "species": "pectinifera"
+      }, 
+      {
+        "species": "travancorica"
+      }
+    ]
+  }, 
+  {
+    "genus": "Nesipelma", 
+    "species": [
+      {
+        "species": "insulare"
+      }
+    ]
+  }, 
+  {
+    "genus": "Sickius", 
+    "species": [
+      {
+        "species": "longibulbi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Homoeomma", 
+    "species": [
+      {
+        "species": "brasilianum"
+      }, 
+      {
+        "species": "elegans"
+      }, 
+      {
+        "species": "familiare"
+      }, 
+      {
+        "species": "hirsutum"
+      }, 
+      {
+        "species": "humile"
+      }, 
+      {
+        "species": "montanum"
+      }, 
+      {
+        "species": "nigrum"
+      }, 
+      {
+        "species": "peruvianum"
+      }, 
+      {
+        "species": "pictum"
+      }, 
+      {
+        "species": "simoni"
+      }, 
+      {
+        "species": "strabo"
+      }, 
+      {
+        "species": "stradlingi"
+      }, 
+      {
+        "species": "uruguayense"
+      }, 
+      {
+        "species": "villosum"
+      }
+    ]
+  }, 
+  {
+    "genus": "Augacephalus", 
+    "species": [
+      {
+        "species": "breyerii (Golden Brown Baboon)"
+      }, 
+      {
+        "species": "junodi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Euphrictus", 
+    "species": [
+      {
+        "species": "spinosus"
+      }, 
+      {
+        "species": "squamosus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Selenogyrus", 
+    "species": [
+      {
+        "species": "africanus"
+      }, 
+      {
+        "species": "aureus"
+      }, 
+      {
+        "species": "austini"
+      }, 
+      {
+        "species": "brunneus"
+      }, 
+      {
+        "species": "caeruleus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Aenigmarachne", 
+    "species": [
+      {
+        "species": "sinapophysis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Sericopelma", 
+    "species": [
+      {
+        "species": "commune"
+      }, 
+      {
+        "species": "dota"
+      }, 
+      {
+        "species": "fallax"
+      }, 
+      {
+        "species": "ferrugineum"
+      }, 
+      {
+        "species": "generala"
+      }, 
+      {
+        "species": "immensum"
+      }, 
+      {
+        "species": "melanotarsum"
+      }, 
+      {
+        "species": "panamense"
+      }, 
+      {
+        "species": "rubronitens"
+      }, 
+      {
+        "species": "silvicola"
+      }, 
+      {
+        "species": "striatum"
+      }, 
+      {
+        "species": "upala"
+      }
+    ]
+  }, 
+  {
+    "genus": "Sphaerobothria", 
+    "species": [
+      {
+        "species": "hoffmannii (Central American Horned)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Ami", 
+    "species": [
+      {
+        "species": "amazonica"
+      }, 
+      {
+        "species": "bladesi"
+      }, 
+      {
+        "species": "caxiuana"
+      }, 
+      {
+        "species": "obscura"
+      }, 
+      {
+        "species": "pijaos"
+      }, 
+      {
+        "species": "weinmanni"
+      }, 
+      {
+        "species": "yupanquii"
+      }
+    ]
+  }, 
+  {
+    "genus": "Cardiopelma", 
+    "species": [
+      {
+        "species": "mascatum"
+      }
+    ]
+  }, 
+  {
+    "genus": "Eucratoscelus", 
+    "species": [
+      {
+        "species": "constrictus"
+      }, 
+      {
+        "species": "longiceps (African Redrump)"
+      }, 
+      {
+        "species": "pachypus (Tanzanian Dwarf Stoutleg)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Idiothele", 
+    "species": [
+      {
+        "species": "nigrofulva"
+      }
+    ]
+  }, 
+  {
+    "genus": "Hemiercus", 
+    "species": [
+      {
+        "species": "cervinus"
+      }, 
+      {
+        "species": "inflatus"
+      }, 
+      {
+        "species": "kastoni"
+      }, 
+      {
+        "species": "modestus"
+      }, 
+      {
+        "species": "proximus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Ischnocolus", 
+    "species": [
+      {
+        "species": "algericus"
+      }, 
+      {
+        "species": "andalusiacus"
+      }, 
+      {
+        "species": "decoratus"
+      }, 
+      {
+        "species": "fasciculatus"
+      }, 
+      {
+        "species": "fuscostriatus"
+      }, 
+      {
+        "species": "hancocki"
+      }, 
+      {
+        "species": "holosericeus"
+      }, 
+      {
+        "species": "jickelii"
+      }, 
+      {
+        "species": "khasiensis"
+      }, 
+      {
+        "species": "maroccanus"
+      }, 
+      {
+        "species": "mogadorensis"
+      }, 
+      {
+        "species": "numidus"
+      }, 
+      {
+        "species": "rubropilosus"
+      }, 
+      {
+        "species": "tomentosus"
+      }, 
+      {
+        "species": "triangulifer"
+      }, 
+      {
+        "species": "tripolitanus"
+      }, 
+      {
+        "species": "tunetanus"
+      }, 
+      {
+        "species": "valentinus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Phormictopus", 
+    "species": [
+      {
+        "species": "atrichomatus (Red Island Birdeater)"
+      }, 
+      {
+        "species": "cancerides (Haitian Brown)"
+      }, 
+      {
+        "species": "nesiotes (Cuban Gold Birdeater)"
+      }, 
+      {
+        "species": "sp. \"purple\" (Cuban Purple)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Eupalaestrus", 
+    "species": [
+      {
+        "species": "campestratus (Pink Zebra Beauty; PZB)"
+      }, 
+      {
+        "species": "spinosissimus"
+      }, 
+      {
+        "species": "weijenberghi (White Collared)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Cyriocosmus", 
+    "species": [
+      {
+        "species": "bertae"
+      }, 
+      {
+        "species": "blenginii"
+      }, 
+      {
+        "species": "chicoi"
+      }, 
+      {
+        "species": "elegans"
+      }, 
+      {
+        "species": "fasciatus"
+      }, 
+      {
+        "species": "fernandoi"
+      }, 
+      {
+        "species": "leetzi"
+      }, 
+      {
+        "species": "nogueiranetoi"
+      }, 
+      {
+        "species": "perezmilesi"
+      }, 
+      {
+        "species": "ritae"
+      }, 
+      {
+        "species": "sellatus"
+      }, 
+      {
+        "species": "versicolor"
+      }
+    ]
+  }, 
+  {
+    "genus": "Ceratogyrus", 
+    "species": [
+      {
+        "species": "bechuanicus (Curved Horn Baboon)"
+      }, 
+      {
+        "species": "brachycephalus (Greater Horned Baboon)"
+      }, 
+      {
+        "species": "darlingi (Horned Baboon)"
+      }, 
+      {
+        "species": "dolichocephalus"
+      }, 
+      {
+        "species": "ezendami"
+      }, 
+      {
+        "species": "hillyardi"
+      }, 
+      {
+        "species": "marshalli (Straight Horned Baboon)"
+      }, 
+      {
+        "species": "meridionalis (Zimbabwe Grey)"
+      }, 
+      {
+        "species": "paulseni"
+      }, 
+      {
+        "species": "pillansi"
+      }, 
+      {
+        "species": "sanderi (Sandy Horned Baboon)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Selenotholus", 
+    "species": [
+      {
+        "species": "foelschei"
+      }
+    ]
+  }, 
+  {
+    "genus": "Lyrognathus", 
+    "species": [
+      {
+        "species": "achilles"
+      }, 
+      {
+        "species": "crotalus"
+      }, 
+      {
+        "species": "fuscus"
+      }, 
+      {
+        "species": "lessunda"
+      }, 
+      {
+        "species": "robustus"
+      }, 
+      {
+        "species": "saltator"
+      }
+    ]
+  }, 
+  {
+    "genus": "Plesiophrictus", 
+    "species": [
+      {
+        "species": "bhori"
+      }, 
+      {
+        "species": "blatteri"
+      }, 
+      {
+        "species": "collinus"
+      }, 
+      {
+        "species": " fabrei"
+      }, 
+      {
+        "species": "linteatus"
+      }, 
+      {
+        "species": "madraspatanus"
+      }, 
+      {
+        "species": "mahabaleshwari"
+      }, 
+      {
+        "species": "meghalayaensis"
+      }, 
+      {
+        "species": "millardi"
+      }, 
+      {
+        "species": "milleti"
+      }, 
+      {
+        "species": "nilagiriensis"
+      }, 
+      {
+        "species": "raja"
+      }, 
+      {
+        "species": "satarensis"
+      }, 
+      {
+        "species": "senffti"
+      }, 
+      {
+        "species": "sericeus"
+      }, 
+      {
+        "species": "tenuipes"
+      }
+    ]
+  }, 
+  {
+    "genus": "Monocentropus", 
+    "species": [
+      {
+        "species": "balfouri (Socotra Island Blue Baboon)"
+      }, 
+      {
+        "species": "lambertoni"
+      }, 
+      {
+        "species": "longimanus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Ornithoctonus", 
+    "species": [
+      {
+        "species": "andersoni"
+      }, 
+      {
+        "species": "aureotibialis"
+      }, 
+      {
+        "species": "costalis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Grammostola", 
+    "species": [
+      {
+        "species": "actaeon (Brazilian Redrump)"
+      }, 
+      {
+        "species": "alticeps (Brazilian Graysmoke)"
+      }, 
+      {
+        "species": "andreleetzi"
+      }, 
+      {
+        "species": "aureostriata (changed to pulchripes)"
+      }, 
+      {
+        "species": "burzaquensis (Argentinian Rose)"
+      }, 
+      {
+        "species": "chalcothrix (Pampas Gold, Argentina Bronze)"
+      }, 
+      {
+        "species": "sp. \u201cconcepcion\u201d (Chilean Red Zebra)"
+      }, 
+      {
+        "species": "doeringi"
+      }, 
+      {
+        "species": "fossor"
+      }, 
+      {
+        "species": "gossei"
+      }, 
+      {
+        "species": "grossa (Pampas Tawny Red)"
+      }, 
+      {
+        "species": "iheringi (Entre Rios)"
+      }, 
+      {
+        "species": "inermis"
+      }, 
+      {
+        "species": "sp. \u201cmaule\u201d (Chilean Gold Fluff)"
+      }, 
+      {
+        "species": "mendozae"
+      }, 
+      {
+        "species": "mollicoma (Brazilian Giant Tawny Red)"
+      }, 
+      {
+        "species": "monticola"
+      }, 
+      {
+        "species": "porteri (Common Rose Hair)"
+      }, 
+      {
+        "species": "pulchra (Brazilian Black)"
+      }, 
+      {
+        "species": "pulchripes (Chaco Golden Knee)"
+      }, 
+      {
+        "species": "rosea (Chilean Rose Hair)"
+      }, 
+      {
+        "species": "schulzei"
+      }, 
+      {
+        "species": "vachoni (Argentine Smokey Topaz)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Myostola", 
+    "species": [
+      {
+        "species": "occidentalis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Haplocosmia", 
+    "species": [
+      {
+        "species": "himalayana"
+      }, 
+      {
+        "species": "nepalensis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Melloleitaoina", 
+    "species": [
+      {
+        "species": "crassifemur"
+      }
+    ]
+  }, 
+  {
+    "genus": "Orphnaecus", 
+    "species": [
+      {
+        "species": "pellitus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Harpactira", 
+    "species": [
+      {
+        "species": "atra"
+      }, 
+      {
+        "species": "baviana"
+      }, 
+      {
+        "species": "cafreriana"
+      }, 
+      {
+        "species": "chrysogaster"
+      }, 
+      {
+        "species": "curator"
+      }, 
+      {
+        "species": "curvipes"
+      }, 
+      {
+        "species": "dictator"
+      }, 
+      {
+        "species": "gigas"
+      }, 
+      {
+        "species": "guttata"
+      }, 
+      {
+        "species": "hamiltoni"
+      }, 
+      {
+        "species": "lineata"
+      }, 
+      {
+        "species": "lyrata"
+      }, 
+      {
+        "species": "marksi"
+      }, 
+      {
+        "species": "namaquensis"
+      }, 
+      {
+        "species": "pulchripes"
+      }, 
+      {
+        "species": "tigrina"
+      }
+    ]
+  }, 
+  {
+    "genus": "Anoploscelus", 
+    "species": [
+      {
+        "species": "celeripes"
+      }, 
+      {
+        "species": "lesserti"
+      }
+    ]
+  }, 
+  {
+    "genus": "Theraphosa", 
+    "species": [
+      {
+        "species": "apophysis (Pinkfoot Goliath)"
+      }, 
+      {
+        "species": "blondi (Goliath Birdeater)"
+      }, 
+      {
+        "species": "\u201csp. Burgandy\u201d (Burgandy Goliath)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Pelinobius", 
+    "species": [
+      {
+        "species": "muticus (King Baboon) Formerly C. crawshayi"
+      }, 
+      {
+        "species": "C. stridulantissimus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Trichognathella", 
+    "species": [
+      {
+        "species": "schoenlandi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Cyclosternum", 
+    "species": [
+      {
+        "species": "bicolor"
+      }, 
+      {
+        "species": "fasciatum (Costa Rican Tiger Rump)"
+      }, 
+      {
+        "species": "garbei"
+      }, 
+      {
+        "species": "gaujoni"
+      }, 
+      {
+        "species": "janthinum"
+      }, 
+      {
+        "species": "kochi"
+      }, 
+      {
+        "species": "macropus"
+      }, 
+      {
+        "species": "melloleitaoi"
+      }, 
+      {
+        "species": "obscurum"
+      }, 
+      {
+        "species": "palomeranum"
+      }, 
+      {
+        "species": "pentalore (Guatemalan Tiger Rump)"
+      }, 
+      {
+        "species": "rufohirtum"
+      }, 
+      {
+        "species": "schmardae (Yellowbanded Birdeater)"
+      }, 
+      {
+        "species": "spinopalpus"
+      }, 
+      {
+        "species": "viridimonte"
+      }
+    ]
+  }, 
+  {
+    "genus": "Batesiella", 
+    "species": [
+      {
+        "species": "crinita"
+      }
+    ]
+  }, 
+  {
+    "genus": "Loxomphalia", 
+    "species": [
+      {
+        "species": "rubida"
+      }
+    ]
+  }, 
+  {
+    "genus": "Selenocosmia", 
+    "species": [
+      {
+        "species": "arndsti"
+      }, 
+      {
+        "species": "aruana"
+      }, 
+      {
+        "species": "compta"
+      }, 
+      {
+        "species": "crassipes (Coastal Whistling Spider)"
+      }, 
+      {
+        "species": "deliana"
+      }, 
+      {
+        "species": "dichromata"
+      }, 
+      {
+        "species": "effera"
+      }, 
+      {
+        "species": "fuliginea"
+      }, 
+      {
+        "species": "hasselti"
+      }, 
+      {
+        "species": "hirtipes"
+      }, 
+      {
+        "species": "honesta"
+      }, 
+      {
+        "species": "imbellis"
+      }, 
+      {
+        "species": "insignis"
+      }, 
+      {
+        "species": "insulana"
+      }, 
+      {
+        "species": "javanensis (Javan Yellowknee)"
+      }, 
+      {
+        "species": "brachyplectra"
+      }, 
+      {
+        "species": "dolichoplectra"
+      }, 
+      {
+        "species": "fulva"
+      }, 
+      {
+        "species": "sumatrana"
+      }, 
+      {
+        "species": "jiafu"
+      }, 
+      {
+        "species": "kovariki"
+      }, 
+      {
+        "species": "kulluensis"
+      }, 
+      {
+        "species": "lanceolata"
+      }, 
+      {
+        "species": "lanipes (New Guinea Brown)"
+      }, 
+      {
+        "species": "lyra"
+      }, 
+      {
+        "species": "mittmannae"
+      }, 
+      {
+        "species": "obscura"
+      }, 
+      {
+        "species": "orophila"
+      }, 
+      {
+        "species": "papuana"
+      }, 
+      {
+        "species": "peerboomi"
+      }, 
+      {
+        "species": "plumipes (Featherleg Whistling Spider)"
+      }, 
+      {
+        "species": "pritami"
+      }, 
+      {
+        "species": "raciborskii"
+      }, 
+      {
+        "species": "samarae"
+      }, 
+      {
+        "species": "similis"
+      }, 
+      {
+        "species": "stirlingi (Australian Whistling Spider)"
+      }, 
+      {
+        "species": "strenua"
+      }, 
+      {
+        "species": "strubelli"
+      }, 
+      {
+        "species": "subvulpina"
+      }, 
+      {
+        "species": "sutherlandi"
+      }, 
+      {
+        "species": "tahanensis"
+      }, 
+      {
+        "species": "valida"
+      }, 
+      {
+        "species": "xinhuaensis"
+      }, 
+      {
+        "species": "xinping"
+      }
+    ]
+  }, 
+  {
+    "genus": "Phlogiellus", 
+    "species": [
+      {
+        "species": "aper"
+      }, 
+      {
+        "species": "atriceps"
+      }, 
+      {
+        "species": "baeri"
+      }, 
+      {
+        "species": "bicolor"
+      }, 
+      {
+        "species": "brevipes"
+      }, 
+      {
+        "species": "inermis"
+      }, 
+      {
+        "species": "insularis"
+      }, 
+      {
+        "species": "nebulosus"
+      }, 
+      {
+        "species": "ornatus"
+      }, 
+      {
+        "species": "subarmatus"
+      }, 
+      {
+        "species": "subinermis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Nesiergus", 
+    "species": [
+      {
+        "species": "gardineri"
+      }, 
+      {
+        "species": "halophilus"
+      }, 
+      {
+        "species": "insulanus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Selenobrachys", 
+    "species": [
+      {
+        "species": "philippinus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Citharischius", 
+    "species": [
+      {
+        "species": "crawshayi (King Baboon) Now P. muticus"
+      }, 
+      {
+        "species": "stridulantissimus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Neostenotarsus", 
+    "species": [
+      {
+        "species": "scissistylus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Thrixopelma", 
+    "species": [
+      {
+        "species": "cyaneum"
+      }, 
+      {
+        "species": "ockerti (Peruvian Flame Rump)"
+      }, 
+      {
+        "species": "pruriens (Chilean Green Velvet)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Ozopactus", 
+    "species": [
+      {
+        "species": "ernsti"
+      }
+    ]
+  }, 
+  {
+    "genus": "Mascaraneus", 
+    "species": [
+      {
+        "species": "remotus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Citharognathus", 
+    "species": [
+      {
+        "species": "hosei"
+      }, 
+      {
+        "species": "tongmianensis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Aphonopelma", 
+    "species": [
+      {
+        "species": "aberrans (Casa Blanca Chestnut)"
+      }, 
+      {
+        "species": "anax (Texas Tan)"
+      }, 
+      {
+        "species": "anitahoffmannae"
+      }, 
+      {
+        "species": "apacheum"
+      }, 
+      {
+        "species": "armada"
+      }, 
+      {
+        "species": "arnoldi"
+      }, 
+      {
+        "species": "baergi"
+      }, 
+      {
+        "species": "behlei (Grand Canyon Black)"
+      }, 
+      {
+        "species": "bicoloratum (Mexican Bloodleg)"
+      }, 
+      {
+        "species": "bistriatum"
+      }, 
+      {
+        "species": "braunshausenii"
+      }, 
+      {
+        "species": "breenei"
+      }, 
+      {
+        "species": "brunnius"
+      }, 
+      {
+        "species": "burica"
+      }, 
+      {
+        "species": "californicum (California Black and Brown)"
+      }, 
+      {
+        "species": "caniceps (Big Bend Gold)"
+      }, 
+      {
+        "species": "chalcodes (Desert Blonde)"
+      }, 
+      {
+        "species": "sp. \u201cNew River\u201d (New River Rustrump)"
+      }, 
+      {
+        "species": "chamberlini"
+      }, 
+      {
+        "species": "chambersi"
+      }, 
+      {
+        "species": "clarki (Fort Worth Brown)"
+      }, 
+      {
+        "species": "clarum"
+      }, 
+      {
+        "species": "coloradanum"
+      }, 
+      {
+        "species": "cookei"
+      }, 
+      {
+        "species": "cratium"
+      }, 
+      {
+        "species": "crinirufum"
+      }, 
+      {
+        "species": "crinita (Mexican Green)"
+      }, 
+      {
+        "species": "crinitum"
+      }, 
+      {
+        "species": "cryptethum"
+      }, 
+      {
+        "species": "duplex"
+      }, 
+      {
+        "species": "echinum"
+      }, 
+      {
+        "species": "eustathes"
+      }, 
+      {
+        "species": "eutylenum (California Ebony)"
+      }, 
+      {
+        "species": "gabeli"
+      }, 
+      {
+        "species": "geotoma"
+      }, 
+      {
+        "species": "gertschi"
+      }, 
+      {
+        "species": "griseum"
+      }, 
+      {
+        "species": "gurleyi"
+      }, 
+      {
+        "species": "hageni"
+      }, 
+      {
+        "species": "harlingenum (Harlingen Chocolate Brown)"
+      }, 
+      {
+        "species": "helluo"
+      }, 
+      {
+        "species": "hentzi (Oklahoma Brown)"
+      }, 
+      {
+        "species": "hesperum"
+      }, 
+      {
+        "species": "heterops"
+      }, 
+      {
+        "species": "hollyi"
+      }, 
+      {
+        "species": "iodius (Salt Lake County Brown)"
+      }, 
+      {
+        "species": "iviei"
+      }, 
+      {
+        "species": "joshua"
+      }, 
+      {
+        "species": "jungi (Rodeo Black)"
+      }, 
+      {
+        "species": "lanceolatum"
+      }, 
+      {
+        "species": "latens"
+      }, 
+      {
+        "species": "levii"
+      }, 
+      {
+        "species": "lithodomum"
+      }, 
+      {
+        "species": "marxi"
+      }, 
+      {
+        "species": "minchi"
+      }, 
+      {
+        "species": "moderatum (Rio Grande Gold)"
+      }, 
+      {
+        "species": "mojave (Mojave Desert Dwarf)"
+      }, 
+      {
+        "species": "mooreae"
+      }, 
+      {
+        "species": "mordax"
+      }, 
+      {
+        "species": "nayaritum"
+      }, 
+      {
+        "species": "odelli"
+      }, 
+      {
+        "species": "pallidum"
+      }, 
+      {
+        "species": "paloma (Paloma Dwarf)"
+      }, 
+      {
+        "species": "pedatum"
+      }, 
+      {
+        "species": "phanum"
+      }, 
+      {
+        "species": "phasmus"
+      }, 
+      {
+        "species": "platnicki"
+      }, 
+      {
+        "species": "prosoicum"
+      }, 
+      {
+        "species": "punzoi"
+      }, 
+      {
+        "species": "radinum"
+      }, 
+      {
+        "species": "reversum"
+      }, 
+      {
+        "species": "rothi"
+      }, 
+      {
+        "species": "rubropilosum"
+      }, 
+      {
+        "species": "ruedanum"
+      }, 
+      {
+        "species": "rusticum (Arizona Olive)"
+      }, 
+      {
+        "species": "sandersoni"
+      }, 
+      {
+        "species": "schmidti (Superstition Mountain Blonde)"
+      }, 
+      {
+        "species": "sclerothrix"
+      }, 
+      {
+        "species": "seemanni (Costa Rican Zebra)"
+      }, 
+      {
+        "species": "sp. \"Guatemala\" (Guatemalan Blue)"
+      }, 
+      {
+        "species": "serratum"
+      }, 
+      {
+        "species": "smithi (Bay Area Blonde)"
+      }, 
+      {
+        "species": "stahnkei"
+      }, 
+      {
+        "species": "steindachneri"
+      }, 
+      {
+        "species": "stoicum"
+      }, 
+      {
+        "species": "sullivani"
+      }, 
+      {
+        "species": "texense (Texas Star)"
+      }, 
+      {
+        "species": "truncatum"
+      }, 
+      {
+        "species": "vogelae"
+      }, 
+      {
+        "species": "vorhiesi (Tuscan Bronze)"
+      }, 
+      {
+        "species": "waconum (Copperas Cove Brown)"
+      }, 
+      {
+        "species": "wichitanum (Wichita Mountain Red)"
+      }, 
+      {
+        "species": "xanthochromum"
+      }, 
+      {
+        "species": "zionis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Acanthoscurria", 
+    "species": [
+      {
+        "species": "acuminata"
+      }, 
+      {
+        "species": "antillensis (Pink Patch Birdeater)"
+      }, 
+      {
+        "species": "atrox (Brazilian Giant Black)"
+      }, 
+      {
+        "species": "aurita"
+      }, 
+      {
+        "species": "bollei"
+      }, 
+      {
+        "species": "borealis"
+      }, 
+      {
+        "species": "brocklehursti (Brazilian Giant Black and White)"
+      }, 
+      {
+        "species": "chacoana (Bolivian Salmon Pink)"
+      }, 
+      {
+        "species": "chiracantha"
+      }, 
+      {
+        "species": "convexa"
+      }, 
+      {
+        "species": "cordubensis"
+      }, 
+      {
+        "species": "cunhae"
+      }, 
+      {
+        "species": "cursor"
+      }, 
+      {
+        "species": "ferina (Dwarf Salmon Pink)"
+      }, 
+      {
+        "species": "fracta (Para Mongo Zebra)"
+      }, 
+      {
+        "species": "geniculata (Brazilian Giant White Knee; White Banded)"
+      }, 
+      {
+        "species": "gomesiana"
+      }, 
+      {
+        "species": "guaxupe"
+      }, 
+      {
+        "species": "hirsutissimasterni"
+      }, 
+      {
+        "species": "insubtilis (Chaco Mousy Brown)"
+      }, 
+      {
+        "species": "juruenicola (Brazilian Orange Banded)"
+      }, 
+      {
+        "species": "maga"
+      }, 
+      {
+        "species": "melanotheria"
+      }, 
+      {
+        "species": "minor"
+      }, 
+      {
+        "species": "musculosa (Brazilian Black Velvet)"
+      }, 
+      {
+        "species": "natalensis (Natal Brown Birdeater)"
+      }, 
+      {
+        "species": "parahybana"
+      }, 
+      {
+        "species": "paulensis"
+      }, 
+      {
+        "species": "pugnax"
+      }, 
+      {
+        "species": "rhodothele"
+      }, 
+      {
+        "species": "rondoniae"
+      }, 
+      {
+        "species": "simoensi"
+      }, 
+      {
+        "species": "sternalis (Black Rump Birdeater)"
+      }, 
+      {
+        "species": "suina (Rusty Brown Birdeater)"
+      }, 
+      {
+        "species": "tarda"
+      }, 
+      {
+        "species": "theraphosoides"
+      }, 
+      {
+        "species": "transamazonica"
+      }, 
+      {
+        "species": "urens"
+      }, 
+      {
+        "species": "violacea"
+      }, 
+      {
+        "species": "xinguensis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Guyruita", 
+    "species": [
+      {
+        "species": "atlantica"
+      }, 
+      {
+        "species": "cerrado"
+      }
+    ]
+  }, 
+  {
+    "genus": "Cyrtopholis", 
+    "species": [
+      {
+        "species": "agilis"
+      }, 
+      {
+        "species": "anacanta"
+      }, 
+      {
+        "species": "annectans"
+      }, 
+      {
+        "species": "bartholomaei"
+      }, 
+      {
+        "species": "bonhotei"
+      }, 
+      {
+        "species": "bryantae"
+      }, 
+      {
+        "species": "culebrae"
+      }, 
+      {
+        "species": "cursor"
+      }, 
+      {
+        "species": "femoralis"
+      }, 
+      {
+        "species": "flavostriata"
+      }, 
+      {
+        "species": "gibbosa"
+      }, 
+      {
+        "species": "innocua"
+      }, 
+      {
+        "species": "intermedia"
+      }, 
+      {
+        "species": "ischnoculiformis"
+      }, 
+      {
+        "species": "jamaicola"
+      }, 
+      {
+        "species": "major"
+      }, 
+      {
+        "species": "media"
+      }, 
+      {
+        "species": "meridionalis"
+      }, 
+      {
+        "species": "obsoleta"
+      }, 
+      {
+        "species": "palmarum"
+      }, 
+      {
+        "species": "plumosa"
+      }, 
+      {
+        "species": "portoricae (Puerto Rican Pygmy)"
+      }, 
+      {
+        "species": "ramsi"
+      }, 
+      {
+        "species": "regibbosa"
+      }, 
+      {
+        "species": "respina"
+      }, 
+      {
+        "species": "schmidti"
+      }, 
+      {
+        "species": "unispina"
+      }, 
+      {
+        "species": "zorodes"
+      }
+    ]
+  }, 
+  {
+    "genus": "Citharacanthus", 
+    "species": [
+      {
+        "species": "alayoni"
+      }, 
+      {
+        "species": "cyaneus"
+      }, 
+      {
+        "species": "livingstoni"
+      }, 
+      {
+        "species": "longipes"
+      }, 
+      {
+        "species": "meermani"
+      }, 
+      {
+        "species": "niger"
+      }, 
+      {
+        "species": "sargi"
+      }, 
+      {
+        "species": "spinicrus (Cuban Cinnamon)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Hapolopus", 
+    "species": [
+      {
+        "species": "aldanus"
+      }, 
+      {
+        "species": "butantan"
+      }, 
+      {
+        "species": "formosus"
+      }, 
+      {
+        "species": "guianensis"
+      }, 
+      {
+        "species": "nigriventris"
+      }, 
+      {
+        "species": "nondescriptus"
+      }, 
+      {
+        "species": "tripepii"
+      }, 
+      {
+        "species": "triseriatus"
+      }
+    ]
+  }, 
+  {
+    "genus": "Pamphobeteus", 
+    "species": [
+      {
+        "species": "antinous (Bolivian Blue Leg)"
+      }, 
+      {
+        "species": "augusti"
+      }, 
+      {
+        "species": "crassifemur"
+      }, 
+      {
+        "species": "ferox"
+      }, 
+      {
+        "species": "fortis (Colombian Brown)"
+      }, 
+      {
+        "species": "grandis"
+      }, 
+      {
+        "species": "insignis (Purple Bloom Birdeate)"
+      }, 
+      {
+        "species": "nigricolor (Blue Bloom Birdeater)"
+      }, 
+      {
+        "species": "ornatus (Pink Bloom Birdeater)"
+      }, 
+      {
+        "species": "petersi"
+      }, 
+      {
+        "species": "ultramarinus (Ecuadorian Birdeater)"
+      }, 
+      {
+        "species": "vespertinus (Red Bloom Birdeater)"
+      }
+    ]
+  }, 
+  {
+    "genus": "Euathlus", 
+    "species": [
+      {
+        "species": "sp. \"blue\""
+      }, 
+      {
+        "species": "sp. \"Chile Flame (Chilean Flame)"
+      }, 
+      {
+        "species": "latithorax"
+      }, 
+      {
+        "species": "pulcherrimaklaasi (Blue Femur Beauty)"
+      }, 
+      {
+        "species": "sp. \"red\""
+      }, 
+      {
+        "species": "truculentus (Chile Beautiful)"
+      }, 
+      {
+        "species": "vulpinus (Chilean Ocelot)"
+      }, 
+      {
+        "species": "vulpinus ater"
+      }
+    ]
+  }, 
+  {
+    "genus": "Hemirrhagus", 
+    "species": [
+      {
+        "species": "cervinus"
+      }, 
+      {
+        "species": "chilango"
+      }, 
+      {
+        "species": "coztic"
+      }, 
+      {
+        "species": "elliotti"
+      }, 
+      {
+        "species": "eros"
+      }, 
+      {
+        "species": "gertschi"
+      }, 
+      {
+        "species": "grieta"
+      }, 
+      {
+        "species": "mitchelli"
+      }, 
+      {
+        "species": "nahuanus"
+      }, 
+      {
+        "species": "ocellatus"
+      }, 
+      {
+        "species": "papalotl"
+      }, 
+      {
+        "species": "pernix"
+      }, 
+      {
+        "species": "puebla"
+      }, 
+      {
+        "species": "reddelli"
+      }, 
+      {
+        "species": "stygius"
+      }
+    ]
+  }, 
+  {
+    "genus": "Brachionopus", 
+    "species": [
+      {
+        "species": "annulatus"
+      }, 
+      {
+        "species": "leptopelmiformis"
+      }, 
+      {
+        "species": "pretoriae"
+      }, 
+      {
+        "species": "robustus"
+      }, 
+      {
+        "species": "tristis"
+      }
+    ]
+  }, 
+  {
+    "genus": "Avicularia", 
+    "species": [
+      {
+        "species": "affinis"
+      }, 
+      {
+        "species": "alticeps"
+      }, 
+      {
+        "species": "ancylochira"
+      }, 
+      {
+        "species": "anthracina"
+      }, 
+      {
+        "species": "aurantiaca (Yellow Banded Pinktoe)"
+      }, 
+      {
+        "species": "avicularia (Common Pinktoe)"
+      }, 
+      {
+        "species": "aymara"
+      }, 
+      {
+        "species": "azuraklaasi (Powder Blue Pinktoe)"
+      }, 
+      {
+        "species": "bicegoi (Brick Red Pinktoe)"
+      }, 
+      {
+        "species": "braunshauseni (Goliath Pinktoe)"
+      }, 
+      {
+        "species": "caesia"
+      }, 
+      {
+        "species": "cuminami"
+      }, 
+      {
+        "species": "detrita"
+      }, 
+      {
+        "species": "diversipes (Amazon Sapphire Pinktoe)"
+      }, 
+      {
+        "species": "doleschalli"
+      }, 
+      {
+        "species": "exilis"
+      }, 
+      {
+        "species": "fasciculata"
+      }, 
+      {
+        "species": "gamba"
+      }, 
+      {
+        "species": "geroldi (Brazilian Blue Pinktoe)"
+      }, 
+      {
+        "species": "glauca"
+      }, 
+      {
+        "species": "gracilis"
+      }, 
+      {
+        "species": "sp. \u201cguyana\u201d (Guyana Pinktoe)"
+      }, 
+      {
+        "species": "hirschii"
+      }, 
+      {
+        "species": "hirsuta"
+      }, 
+      {
+        "species": "holmbergi"
+      }, 
+      {
+        "species": "huriana (Woolly Pinktoe)"
+      }, 
+      {
+        "species": "juruensis"
+      }, 
+      {
+        "species": "laeta (Puerto Rican Pinktoe)"
+      }, 
+      {
+        "species": "leporina"
+      }, 
+      {
+        "species": "metallica (Metallic Pinktoe; Whitetoe)"
+      }, 
+      {
+        "species": "minatrix (Redstripe Pinktoe)"
+      }, 
+      {
+        "species": "nigrotaeniata"
+      }, 
+      {
+        "species": "ochracea"
+      }, 
+      {
+        "species": "palmicola"
+      }, 
+      {
+        "species": "parva"
+      }, 
+      {
+        "species": "plantaris"
+      }, 
+      {
+        "species": "pulchra"
+      }, 
+      {
+        "species": "purpurea (Purple Pinktoe)"
+      }, 
+      {
+        "species": "rapax"
+      }, 
+      {
+        "species": "recifiensis"
+      }, 
+      {
+        "species": "rufa"
+      }, 
+      {
+        "species": "rutilans"
+      }, 
+      {
+        "species": "sooretama"
+      }, 
+      {
+        "species": "soratae"
+      }, 
+      {
+        "species": "subvulpina"
+      }, 
+      {
+        "species": "surinamensis"
+      }, 
+      {
+        "species": "taunayi"
+      }, 
+      {
+        "species": "tigrina"
+      }, 
+      {
+        "species": "ulrichea"
+      }, 
+      {
+        "species": "urticans (Peruvian pinktoe)"
+      }, 
+      {
+        "species": "velutina"
+      }, 
+      {
+        "species": "versicolor (Antilles Pinktoe)"
+      }, 
+      {
+        "species": "violacea"
+      }, 
+      {
+        "species": "walckenaeri"
+      }
+    ]
+  }, 
+  {
+    "genus": "Bacillochilus", 
+    "species": [
+      {
+        "species": "xenostridulans"
+      }
+    ]
+  }, 
+  {
+    "genus": "Kochiana", 
+    "species": [
+      {
+        "species": "brunnipes"
+      }
+    ]
+  }, 
+  {
+    "genus": "Encyocratella", 
+    "species": [
+      {
+        "species": "olivacea"
+      }
+    ]
+  }, 
+  {
+    "genus": "Vitalius", 
+    "species": [
+      {
+        "species": "buecherli"
+      }, 
+      {
+        "species": "dubius"
+      }, 
+      {
+        "species": "longisternalis"
+      }, 
+      {
+        "species": "lucasae"
+      }, 
+      {
+        "species": "paranaensis"
+      }, 
+      {
+        "species": "roseus (Starburst Birdeater)"
+      }, 
+      {
+        "species": "sorocabae"
+      }, 
+      {
+        "species": "vellutinus (Amazon Orange Stripe Knee)"
+      }, 
+      {
+        "species": "wacketi"
+      }
+    ]
+  }, 
+  {
+    "genus": "Magulla", 
+    "species": [
+      {
+        "species": "brescoviti"
+      }, 
+      {
+        "species": "buecherli"
+      }, 
+      {
+        "species": "janeira"
+      }, 
+      {
+        "species": "obesa"
+      }
+    ]
+  }, 
+  {
+    "genus": "Loxoptygus", 
+    "species": [
+      {
+        "species": "coturnatus"
+      }, 
+      {
+        "species": "ectypus"
+      }, 
+      {
+        "species": "erlangeri"
+      }
+    ]
+  }, 
+  {
+    "genus": "Proshapalopus", 
+    "species": [
+      {
+        "species": "amazonicus"
+      }, 
+      {
+        "species": "anomalus"
+      }, 
+      {
+        "species": "multicuspidatus"
+      }
+    ]
+  }
+]
