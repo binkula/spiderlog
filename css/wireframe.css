@@ -148,10 +148,9 @@ spider-list {
   font-size: 35px;
   text-align: center; }
 
-spider-profile {
+spider-profile #spider-profile {
   background: #7D7A75;
   bottom: 0;
-  display: none;
   left: 0;
   padding-bottom: 30px;
   padding-left: 60px;
@@ -179,11 +178,8 @@ spider-profile .save {
   margin-right: auto;
   margin-top: 30px; }
 
-spider-profile.edit input {
-  display: block; }
-
-spider-profile.edit #profile-info,
-spider-profile.open #profile-info-edit {
+#spider-profile.edit #profile-info,
+#spider-profile.open #profile-info-edit {
   display: none; }
 
 #profile-info {
